@@ -1,6 +1,6 @@
-## PHP Simple Algo Checking Parenthesis ##
+## Simple PHP Algo Checking Parenthesis ##
 
-A PHP simple algorithm to get index position end of parenthesis of given string
+A simple PHP algorithm to get index position end of parenthesis of given string
 
 The function receives "a (b c (d e (f) g) h) i (j k)" and 2 as arguments.
 
