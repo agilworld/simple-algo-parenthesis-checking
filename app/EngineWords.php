@@ -25,7 +25,6 @@ class EngineWords {
                 unset($positions[count($positions)-1]);
                 $positions = array_values($positions);
             }
-            var_dump($positions);
         }
 
         return $positions;
